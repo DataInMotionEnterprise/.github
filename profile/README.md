@@ -1,5 +1,7 @@
-https://datainmotionenterprise.com  
+[Website](https://datainmotionenterprise.com)  
   
-https://hub.docker.com/r/datainmotionenterprise/connector/tags
+[Binary Releases](https://github.com/DataInMotionEnterprise/DIME-Releases/releases)
 
-[DIME Connector Field Manual](../docs/DIME-Connector%20Field%20Manual.pdf)
+[Docker Images](https://hub.docker.com/r/datainmotionenterprise/connector/tags)
+
+[Connector Field Manual](../docs/DIME-Connector%20Field%20Manual.pdf)
