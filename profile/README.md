@@ -16,6 +16,12 @@ Docker [Images](https://hub.docker.com/r/datainmotionenterprise/horizon/tags) | 
 
 [Binary Releases](https://github.com/DataInMotionEnterprise/DIME-Releases/releases/tag/horizon-1.0.0)
 
+## Connector Configurator
+
+Field connectivity endpoint configurator.
+
+[Binary Releases](https://github.com/DataInMotionEnterprise/DIME-Releases/releases/tag/configurator-1.0.0)
+
 ## Connector
 
 Field connectivity endpoint.
