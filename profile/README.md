@@ -28,6 +28,6 @@ Field connectivity endpoint.
 
 Docker [Images](https://hub.docker.com/r/datainmotionenterprise/connector/tags) | [Instructions](https://github.com/DataInMotionEnterprise/DIME-Connector.Docker)
 
-[Binary Releases](https://github.com/DataInMotionEnterprise/DIME-Releases/releases/tag/connector-3.1.1)
+[Binary Releases](https://github.com/DataInMotionEnterprise/DIME-Releases/releases/tag/connector-3.1.4)
 
 [Field Manual](../docs/DIME-Connector%20Field%20Manual.pdf)
