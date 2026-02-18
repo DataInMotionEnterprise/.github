@@ -1,3 +1,7 @@
+<img src="ecosystem-illustration.png" width="400">
+
+Industry 4.0 information ecosystem.
+
 [Website](https://datainmotionenterprise.com)  
 
 ## Zenith UX
