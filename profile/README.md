@@ -66,7 +66,7 @@ The Connector is where data meets the machine. It's a high-performance service t
 
 **What makes it different:**
 
-- **40+ industrial protocols** out of the box — Siemens S7, Rockwell EtherNet/IP, OPC-UA, Modbus TCP, MQTT, MTConnect, Fanuc, Yaskawa, Beckhoff ADS, and many more
+- **50+ industrial protocols** out of the box — Siemens S7, Rockwell EtherNet/IP, OPC-UA, Modbus TCP, MQTT, MTConnect, Fanuc, Yaskawa, Beckhoff ADS, and many more
 - **Sub-millisecond latency** powered by a lock-free Disruptor ring buffer architecture — the same pattern used in high-frequency trading systems
 - **Million+ messages per second** on commodity hardware
 - **Report By Exception** — intelligent change detection reduces bandwidth by up to 90%
