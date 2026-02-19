@@ -8,7 +8,7 @@
 
 [Website](https://datainmotionenterprise.com)
 
-<img src="ecosystem-illustration.png" width="400">
+<img src="./ecosystem-illustration.png" width="400">
 
 </div>
 
